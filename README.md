@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ibram-Nabil
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learning js
 - 📫 My email is "ebmnil@gmail.com"
 
 <!---
